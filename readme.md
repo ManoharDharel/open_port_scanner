@@ -1,4 +1,4 @@
-### Blog Post: Exploring Network Security with Python and Nmap
+### Exploring Network Security with Python and Nmap
 
 #### Introduction
 
