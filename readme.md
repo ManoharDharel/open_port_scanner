@@ -97,4 +97,4 @@ Happy scanning!
 
 ---
 
-I hope you found this tutorial helpful. If you have any questions or suggestions, feel free to leave a comment below!
+I hope you found this tutorial helpful. If you have any questions or suggestions, feel free to leave a comment!
